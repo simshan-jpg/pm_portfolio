@@ -10,9 +10,9 @@ to build thoughtful digital experiences. <br/>
 </div>
 
 [View My Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
-[Creative Side Projects](simoneyu.my.canva.site) ·
+[Creative Side Projects](https://simoneyu.my.canva.site/) ·
 [LinkedIn](https://www.linkedin.com/in/simone-yuu/) ·
-[Portfolio Preview] <img alt="Demo" src="./Images/readme-img1.png" />
+[Portfolio Preview] <img alt="Demo" src="./Images/computer.png" />
 
 ## About Me
 

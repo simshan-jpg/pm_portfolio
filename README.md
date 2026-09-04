@@ -12,7 +12,7 @@ to build thoughtful digital experiences. <br/>
 [View My Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
 [Creative Side Projects](simoneyu.my.canva.site) ·
 [LinkedIn](https://www.linkedin.com/in/simone-yuu/) ·
-![Portfolio Preview](images/computer.png)
+[Portfolio Preview] <img alt="Demo" src="./Images/readme-img1.png" />
 
 ## About Me
 

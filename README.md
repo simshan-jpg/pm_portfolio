@@ -36,18 +36,16 @@ recommendation logic, wireframes, prototyping, and success metrics.
 [Read the Case Study](YOUR_CASE_STUDY_LINK)
 
 ---
-## Most Recent App (In Progress)
+## Most Recent App (_In Progress_)
 
-change later!!!Designed a personalized fashion-discovery experience that helps shoppers
-build complete outfits based on occasion, aesthetic, budget, weather,
-sizing, and product availability.
+change later!!!Designed a personalized fashion-discovery experience that helps ..
 
 **What I worked on:** User research, interview synthesis, product strategy,
 recommendation logic, wireframes, prototyping, and success metrics.
 
-[Read the Case Study](YOUR_CASE_STUDY_LINK)
+[View the Current Progress Here](YOUR_CASE_STUDY_LINK)
 
-## Explore all of my projects at this [link!](https://https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) ·
+## Explore all of my projects at this [link!](https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) ·
 
 
 ## My Approach to Building (And Confidently Owning!) a Product

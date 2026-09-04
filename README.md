@@ -1,5 +1,5 @@
 <h2 align="center">
-# Simone Yu — Product Management Portfolio <br/>
+Simone Yu — Portfolio <br/>
 
 <h4 align="center">
 Product manager combining data, customer insight, and creative storytelling

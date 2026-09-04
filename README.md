@@ -22,9 +22,14 @@ I enjoy fast-moving, lively environments that are determined to turn any bold id
 ## Most Recent In-Depth Case Study
 
 ### AI-Powered Fashion Discovery
-<h4>
-    <img alt="Demo" src="./Images/app.png" />
-</h4>
+<p align="center">
+  <img
+    alt="AI-Powered Fashion Discovery Demo"
+    src="./Images/app.png"
+    width="500"
+  />
+</p>
+
 
 Designed a personalized fashion-discovery experience that helps shoppers
 build complete outfits based on occasion, aesthetic, budget, weather,

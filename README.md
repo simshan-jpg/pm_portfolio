@@ -23,6 +23,10 @@ I enjoy fast-moving, lively environments that are determined to turn any bold id
 
 ### AI-Powered Fashion Discovery
 
+<div align="center">
+  <img alt="Demo" src="./Images/app.png" />
+</div>
+
 Designed a personalized fashion-discovery experience that helps shoppers
 build complete outfits based on occasion, aesthetic, budget, weather,
 sizing, and product availability.

@@ -10,17 +10,14 @@ to build thoughtful digital experiences._ <br/>
 </div>
 
 [View My Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
-[Creative Side Projects](https://simoneyu.my.canva.site/) ·
-[LinkedIn](https://www.linkedin.com/in/simone-yuu/) ·
+[Creative Projects/Involvement in College](https://simoneyu.my.canva.site/) ·
 
 ## About Me
 
-I am a UCLA graduate with a background in Statistics & Data Science and
+Hey there! I am a UCLA graduate with a background in Statistics & Data Science and
 Film, Television, and Digital Media.
 
-My experience spans product management, ads measurement, product strategy,
-user research, data analysis, and digital storytelling. I enjoy translating
-complex customer and business problems into clear, intuitive products that have a positive impact on the people around me.
+I enjoy fast-moving, lively environments that are determined to turn any bold idea into a product customers actually  _need_ and _get excited about!_. My experience spans product management, ads measurement, product strategy, consulting, user research, data analysis, and digital storytelling. 
 
 ## Most Recent In-Depth Case Study
 

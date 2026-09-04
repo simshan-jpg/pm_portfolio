@@ -9,8 +9,8 @@ to build thoughtful digital experiences._ <br/>
   <img alt="Demo" src="./Images/computer.png" />
 </div>
 
-[View My Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
-[Creative Projects/Involvement in College](https://simoneyu.my.canva.site/) ·
+[Product Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
+[Creative & Visual Work](https://simoneyu.my.canva.site/) ·
 
 ## About Me
 
@@ -21,36 +21,51 @@ I enjoy fast-moving, lively environments that are determined to turn any bold id
 
 ## Most Recent In-Depth Case Study
 
-### AI-Powered Fashion Discovery
+<h3 align="center"> AI-Powered Fashion Discovery <br/>
+  
 <p align="center">
   <img
     alt="AI-Powered Fashion Discovery Demo"
     src="./Images/app.png"
     width="500"
   />
-</p>
 
 
-Designed a personalized fashion-discovery experience that helps shoppers
+<h5 align="center">
+Designing a personalized fashion-discovery experience that helps shoppers
 build complete outfits based on occasion, aesthetic, budget, weather,
 sizing, and product availability.
+</h5>
+</p>
 
-**What I worked on:** User research, interview synthesis, product strategy,
-recommendation logic, wireframes, prototyping, and success metrics.
+**Skills Used** <br/>
+user research, interview synthesis, product strategy, recommendation logic, wireframes, prototyping, and success metrics.
 
 [Read the Case Study](YOUR_CASE_STUDY_LINK)
 
 ---
 ## Most Recent App (_In Progress_)
 
-change later!!!Designed a personalized fashion-discovery experience that helps ..
+<h3 align="center"> QUE: An App for a Lifelong Quest. <br/>
+  
+<p align="center">
+  <img
+    alt="AI-Powered Fashion Discovery Demo"
+    src="./Images/app.png"
+    width="500"
+  />
 
-**What I worked on:** User research, interview synthesis, product strategy,
-recommendation logic, wireframes, prototyping, and success metrics.
+<h5 align="center">
+description here
+</h5>
+</p>
+
+**Skills Used** <br/>
+skills here
 
 [View the Current Progress Here](YOUR_CASE_STUDY_LINK)
 
-## Explore all of my projects at this [link!](https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) ·
+### Explore the rest of my projects at this [link](https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) 
 
 
 ## My Approach to Building (And Confidently Owning!) a Product

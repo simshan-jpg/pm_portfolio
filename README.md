@@ -1,15 +1,11 @@
-<h3 align="center">
-  Simone's Portfolio <br/>
-  Hello there! <br/>
-</h1>
-<div align="center">
-  <img alt="Demo" src="./Images/computer.png" />
-</div>
-
 # Simone Yu — Product Management Portfolio
 
 Product manager combining data, customer insight, and creative storytelling
 to build thoughtful digital experiences.
+
+<div align="center">
+  <img alt="Demo" src="./Images/computer.png" />
+</div>
 
 [View My Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
 [Creative Side Projects](simoneyu.my.canva.site) ·

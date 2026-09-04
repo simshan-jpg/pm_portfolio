@@ -1,7 +1,9 @@
-# Simone Yu — Product Management Portfolio
+<h1 align="center">
+# Simone Yu — Product Management Portfolio <br/>
 
+<h2 align="center">
 Product manager combining data, customer insight, and creative storytelling
-to build thoughtful digital experiences.
+to build thoughtful digital experiences. <br/>
 
 <div align="center">
   <img alt="Demo" src="./Images/computer.png" />

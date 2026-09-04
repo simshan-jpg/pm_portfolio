@@ -1,7 +1,6 @@
 <h3 align="center">
   Simone's Portfolio <br/>
-  <a href="simshan-jpg.github.io/pm_portfolio/" target="_blank">click here!</a>
-  
+  Hello there! <br/>
 </h1>
 <div align="center">
   <img alt="Demo" src="./Images/computer.png" />

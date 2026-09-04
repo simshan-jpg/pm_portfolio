@@ -22,7 +22,7 @@ My experience spans product management, ads measurement, product strategy,
 user research, data analysis, and digital storytelling. I enjoy translating
 complex customer and business problems into clear, intuitive products.
 
-## Featured Case Studies
+# Most Recent In-Depth Case Study
 
 ### AI-Powered Fashion Discovery
 
@@ -36,8 +36,20 @@ recommendation logic, wireframes, prototyping, and success metrics.
 [Read the Case Study](YOUR_CASE_STUDY_LINK)
 
 ---
+## Most Recent App (In Progress)
 
-### Ads Attribution & Measurement
+change later!!!Designed a personalized fashion-discovery experience that helps shoppers
+build complete outfits based on occasion, aesthetic, budget, weather,
+sizing, and product availability.
+
+**What I worked on:** User research, interview synthesis, product strategy,
+recommendation logic, wireframes, prototyping, and success metrics.
+
+[Read the Case Study](YOUR_CASE_STUDY_LINK)
+
+_Explore all of my projects at this [link!](https://https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) ·
+_
+
 
 Explored how advertisers can better understand campaign performance and
 make more confident optimization decisions.
@@ -59,7 +71,7 @@ prioritization, KPI definition, and implementation planning.
 
 [Read the Case Study](YOUR_CASE_STUDY_LINK)
 
-## My Product Process
+## My Product Process and Skills Application
 
 1. Define the customer and business problem
 2. Research user behaviors and unmet needs
@@ -68,8 +80,6 @@ prioritization, KPI definition, and implementation planning.
 5. Design and prototype the experience
 6. Define success metrics
 7. Test, learn, and iterate
-
-## Product Management Skills
 
 - Product strategy and roadmapping
 - User interviews and research synthesis
@@ -84,30 +94,14 @@ prioritization, KPI definition, and implementation planning.
 
 ## Tools
 
-Figma · SQL · Python · R · GitHub · Claude · Analytics · Agile
+Figma · SQL · Python · R · GitHub · Claude Code · Analytics · Agile · Notion 
 
-## Experience
+## Projects Built With...
 
-### TikTok — Product Manager Intern
+Figma · SQL · Python · R · GitHub · Claude Code · Analytics · Agile · Notion 
 
-Worked on Ads Attribution & Measurement, helping translate advertiser needs
-and performance data into clearer product experiences.
 
-### Bruin Consulting — Junior Consultant
 
-Developed product and market recommendations for clients including Coursera
-and TopBloc through research, competitive analysis, and stakeholder
-presentations.
 
-### BLCK UNICRN — Product and Marketing
 
-Contributed to the development and positioning of immersive music and
-entertainment experiences involving interactive and emerging technologies.
 
-## Contact
-
-I’m interested in associate product manager and early-career product roles
-at the intersection of technology, data, AI, and consumer experiences.
-
-[Visit My Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
-[Connect on LinkedIn](linkedin.com/in/simone-yuu/)

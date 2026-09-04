@@ -1,6 +1,6 @@
 <h3 align="center">
   Simone's Portfolio <br/>
-  <a href="simoneyu.my.canva.site/" target="_blank">click here!</a>
+  <a href="simshan-jpg.github.io/pm_portfolio/" target="_blank">click here!</a>
   
 </h1>
 <div align="center">

@@ -6,32 +6,15 @@
   <img alt="Demo" src="./Images/computer.png" />
 </div>
 
-<br/>
-
-## Built With
-
-My personal portfolio <a href="simshan-jpg.github.io/pm_portfolio/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
-
-
 # Simone Yu — Product Management Portfolio
 
 Product manager combining data, customer insight, and creative storytelling
 to build thoughtful digital experiences.
 
 [View My Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[Resume](YOUR_RESUME_URL)
-
-![Portfolio Preview](images/portfolio-preview.png)
+[Creative Side Projects](simoneyu.my.canva.site) ·
+[LinkedIn](https://www.linkedin.com/in/simone-yuu/) ·
+![Portfolio Preview](images/computer.png)
 
 ## About Me
 
@@ -130,4 +113,4 @@ I’m interested in associate product manager and early-career product roles
 at the intersection of technology, data, AI, and consumer experiences.
 
 [Visit My Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
-[Connect on LinkedIn](YOUR_LINKEDIN_URL)
+[Connect on LinkedIn](linkedin.com/in/simone-yuu/)

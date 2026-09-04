@@ -71,34 +71,43 @@ prioritization, KPI definition, and implementation planning.
 
 [Read the Case Study](YOUR_CASE_STUDY_LINK)
 
-## My Product Process and Skills Application
+# My Approach to Building (And Confidently Owning!) a Product
 
-1. Define the customer and business problem
-2. Research user behaviors and unmet needs
-3. Synthesize insights into opportunities
-4. Prioritize solutions and tradeoffs
-5. Design and prototype the experience
-6. Define success metrics
-7. Test, learn, and iterate
+* I lead my customer/product discovery through interviews (if applicable), market research, workflow analysis, behavioral, and other data—turning findings into clear product opportunities that fit our business objectives
 
-- Product strategy and roadmapping
-- User interviews and research synthesis
-- Product requirements and user stories
-- Prioritization and tradeoff analysis
-- Experiment design and success metrics
-- Data analysis and SQL
-- AI and LLM product development
-- Wireframing and rapid prototyping
-- Cross-functional communication
-- Product storytelling
+* I translate our customer/business needs into detailed product requirements, user stories, account-mapping rules, success metrics, and roadmap priorities.
 
-## Tools
+* I define and evaluate high-level product KPIs (campaign discrepancies, conversion rates, click-through rates, engagement, adoption, onboarding time, etc.)
 
-Figma · SQL · Python · R · GitHub · Claude Code · Analytics · Agile · Notion 
+* I design/iterate user journeys, wireframes, and prototypes in close partnership with the design, engineering, content, operations, and business teams. 
 
-## Projects Built With...
+* I validate our product direction (usually closely with the engineering team from here specifically) through usability testing, beta feedback, analytics, hypothesis testing, and A/B experimentation.
 
-Figma · SQL · Python · R · GitHub · Claude Code · Analytics · Agile · Notion 
+* I manage execution through backlog refinement, launch-readiness reviews, documentation, risk identification, partner alignment, and post-launch iteration.
+
+* I apply SQL, Python, dashboards, and other data visualization methods to identify any gaps, monitor performance frequently, and then communicate my recommendations to leadership and stakeholders.
+
+Most of my workflows are HIGHLY focused on exploring the most fitting AI and machine-learning applications. This has included recommendation systems, collaborative filtering, help-desk automation, company-built AI bots _(most recent example: Using AIME at my PM internship @TikTok)_, and rapid AI prototyping—to improve our operational workflows.
+  
+
+## Tools & Technical Skills
+
+**Product & Collaboration:** Figma · Jira · Confluence · Notion · Miro · GitHub
+
+**Data & Development:** SQL · Python · R · JavaScript · HTML/CSS · Pandas · NumPy · Tableau · Power BI · Excel · Google Analytics · GA4 · Salesforce
+
+**Product Methods:** Agile · Product Analytics · A/B Testing · Hypothesis Testing · Data Visualization
+
+## AI Product Stack Experience
+
+**Build & Prototype:** Figma Make · Claude Code · Cursor · Lovable
+
+**Models & Intelligence:** GPT-4/OpenAI · Google AI Studio · Cohere · AIME by ByteDance · Collaborative Filtering · Recommendation Systems · Prompt Engineering
+
+**Automate & Deploy:** Zapier · Vercel
+
+
+
 
 
 

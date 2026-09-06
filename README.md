@@ -41,7 +41,7 @@ sizing, and product availability.
 **Skills Used** <br/>
 user research, interview synthesis, product strategy, recommendation logic, wireframes, prototyping, and success metrics.
 
-[Read the Case Study]([YOUR_CASE_STUDY_LINK](https://simshan-jpg.github.io/RL_AI_Fashion_Discovery/))
+[Read the Case Study]([https://simshan-jpg.github.io/RL_AI_Fashion_Discovery/])
 
 ---
 ## Most Recent App (_In Progress_)

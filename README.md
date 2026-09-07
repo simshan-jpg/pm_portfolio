@@ -26,20 +26,20 @@ I enjoy fast-moving, lively environments that are determined to turn any bold id
 <p align="center">
   <img
     alt="AI-Powered Fashion Discovery Demo"
-    src="./Images/app.png"
+    src="./Images/AI-powered fashion discovery.png"
     width="500"
   />
 
 
 <h5 align="center">
-Designing a personalized fashion-discovery experience that helps shoppers
+Designed a personalized fashion-discovery experience that helps shoppers
 build complete outfits based on occasion, aesthetic, budget, weather,
 sizing, and product availability.
 </h5>
 </p>
 
 **Skills Used** <br/>
-user research, interview synthesis, product strategy, recommendation logic, wireframes, prototyping, and success metrics.
+user research, interview synthesis, product strategy, recommendation logic, wireframes, prototyping, user-flow design, roadmap planning, and success metrics.
 
 [Read the Case Study](https://simshan-jpg.github.io/RL_AI_Fashion_Discovery/)
 ---
@@ -57,14 +57,14 @@ user research, interview synthesis, product strategy, recommendation logic, wire
   />
 
 <h5 align="center">
-description here
+Designing a gamified goal and discipline tracker that turns long-term ambitions into weekly quests, progress milestones, and motivating rewards.
 </h5>
 </p>
 
 **Skills Used** <br/>
-skills here
+behavioral design, gamification, habit-loop design, user segmentation, feature prioritization, information architecture, user-flow design, interaction design, UX writing, roadmap planning, MVP scoping, experimentation, data analysis, technical implementation, AI-assisted development, iterative design, product storytelling.
 
-[View the Current Progress Here](YOUR_CASE_STUDY_LINK)
+[View the Current Progress Here](https://docs.google.com/document/d/1HqPcErC_-xhPJHvrXu9wKUBNT0HYL5zcZ2ImUuWpJs8/edit?tab=t.0)
 ---
 ### Explore the rest of my projects at this [link](https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) 
 ---

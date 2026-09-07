@@ -42,6 +42,7 @@ sizing, and product availability.
 user research, interview synthesis, product strategy, recommendation logic, wireframes, prototyping, and success metrics.
 
 [Read the Case Study](https://simshan-jpg.github.io/RL_AI_Fashion_Discovery/)
+---
 
 ---
 ## Most Recent App (_In Progress_)
@@ -64,11 +65,11 @@ description here
 skills here
 
 [View the Current Progress Here](YOUR_CASE_STUDY_LINK)
-
+---
 ### Explore the rest of my projects at this [link](https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) 
+---
 
-
-## My Approach to Building (And Confidently Owning!) a Product
+### My Approach to Building (And Confidently Owning!) a Product
 
 * I lead my customer/product discovery through interviews (if applicable), market research, workflow analysis, behavioral, and other data—turning findings into clear product opportunities that fit our business objectives
 * I translate our customer/business needs into detailed product requirements, user stories, account-mapping rules, success metrics, and roadmap priorities.
@@ -79,7 +80,8 @@ skills here
 * I apply SQL, Python, dashboards, and other data visualization methods to identify any gaps, monitor performance frequently, and then communicate my recommendations to leadership and stakeholders.
 
 Most of my workflows are HIGHLY focused on exploring the most fitting AI and machine-learning applications. This has included recommendation systems, collaborative filtering, help-desk automation, company-built AI bots _(most recent example: Using AIME at my PM internship @TikTok)_, and rapid AI prototyping—to improve our operational workflows.
-  
+
+---
 
 ## Tools & Technical Skills
 

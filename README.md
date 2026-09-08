@@ -10,7 +10,7 @@ to build & bring solutions to life <br/>
 </div>
 
 [Product Portfolio](https://simshan-jpg.github.io/pm_portfolio/) ·
-[Creative & Visual Work](https://simoneyu.my.canva.site/) ·
+[Creative & Visual Work](https://simoneyu.my.canva.site/26) ·
 
 ## About Me
 
@@ -96,7 +96,7 @@ Tools Used: <br/>
 * I manage execution through backlog refinement, launch-readiness reviews, documentation, risk identification, partner alignment, and post-launch iteration.
 * I apply SQL, Python, dashboards, and other data visualization methods to identify any gaps, monitor performance frequently, and then communicate my recommendations to leadership and stakeholders.
 
-Most of my workflows are HIGHLY focused on exploring the most fitting AI and machine-learning applications. This has included recommendation systems, collaborative filtering, help-desk automation, company-built AI bots _(most recent example: Using AIME at my PM internship @TikTok)_, and rapid AI prototyping—to improve our operational workflows.
+Most of my workflows are HIGHLY focused on exploring the most fitting AI and machine-learning applications. This has included recommendation systems, collaborative filtering, help-desk automation, company-built AI bots _(most recent example: Using AIME at my PM internship @TikTok)_, and rapid AI prototyping in order to improve a variety of operational workflows.
 
 ---
 

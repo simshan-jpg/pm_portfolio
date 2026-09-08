@@ -1,5 +1,5 @@
 <h2 align="center">
-Simone Yu — Portfolio <br/>
+Simone Yu - Portfolio <br/>
 
 <h4 align="center">
 Product manager combining data & storytelling
@@ -18,6 +18,10 @@ Hey there! I am a UCLA graduate with a background in Statistics & Data Science a
 Film, Television, and Digital Media.
 
 I enjoy fast-moving, lively environments that are determined to turn any bold idea into a product customers actually  _need_ and _get excited about!_. My experience spans product management, ads measurement, product strategy, consulting, user research, data analysis, and digital storytelling. 
+
+---
+### Explore my full product case studies/projects [here](https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) 
+---
 
 ## Most Recent In-Depth Case Study
 
@@ -38,8 +42,14 @@ sizing, and product availability.
 </h5>
 </p>
 
-**Skills Used** <br/>
-user research, interview synthesis, product strategy, recommendation logic, wireframes, prototyping, user-flow design, roadmap planning, and success metrics.
+<h3>
+Tools Used: <br/>
+</h3>
+
+**Product & Research:** Figma, Google Forms, Google Sheets, Notion <br/>
+**AI & Development:** Claude Code, ChatGPT <br/>
+**Discovery & Inspiration:** Pinterest, Ralph Lauren, competitor platforms <br/>
+**Deployment:** GitHub, GitHub Pages <br/>
 
 [Read the Case Study](https://simshan-jpg.github.io/RL_AI_Fashion_Discovery/)
 ---
@@ -61,12 +71,19 @@ Designing a gamified goal and discipline tracker that turns long-term ambitions 
 </h5>
 </p>
 
-**Skills Used** <br/>
-behavioral design, gamification, habit-loop design, user segmentation, feature prioritization, information architecture, user-flow design, interaction design, UX writing, roadmap planning, MVP scoping, experimentation, data analysis, technical implementation, AI-assisted development, iterative design, product storytelling.
+<h3>
+Tools Used: <br/>
+</h3>
+
+**Product & Research:** Figma, Google Forms, Google Sheets, Notion, Maze <br/>
+**AI & Development:** Claude Code, ChatGPT, Cursor <br/>
+**Visual Design:** Canva, Coolors, Fontjoy, Pinterest <br/>
+**Game Mechanics:** Machinations, FigJam <br/>
+**Development & Data:** GitHub, Supabase, Firebase <br/>
+**Analytics & Testing:** Google Analytics, Mixpanel <br/>
+**Deployment:** GitHub Pages <br/>
 
 [View the Current Progress Here](https://docs.google.com/document/d/1HqPcErC_-xhPJHvrXu9wKUBNT0HYL5zcZ2ImUuWpJs8/edit?tab=t.0)
----
-### Explore the rest of my projects at this [link](https://carpal-knot-835.notion.site/Simone-Yu-PM-Portfolio-1692de0cb677805aa304eb207043f7d7) 
 ---
 
 ### My Approach to Building (And Confidently Owning!) a Product
@@ -85,20 +102,21 @@ Most of my workflows are HIGHLY focused on exploring the most fitting AI and mac
 
 ## Tools & Technical Skills
 
-**Product & Collaboration:** Figma · Jira · Confluence · Notion · Miro · GitHub
+**Product & Collaboration:** Figma · Jira · Confluence · Notion · Miro · GitHub· Canva 
 
 **Data & Development:** SQL · Python · R · JavaScript · HTML/CSS · Pandas · NumPy · Tableau · Power BI · Excel · Google Analytics · GA4 · Salesforce
 
 **Product Methods:** Agile · Product Analytics · A/B Testing · Hypothesis Testing · Data Visualization
 
+---
+
 ## AI Product Stack Experience
 
-**Build & Prototype:** Figma Make · Claude Code · Cursor · Lovable
+**Build & Prototype:** Figma Make ·  Figma · Claude Code · Cursor · Lovable · GitHub · Supabase
 
-**Models & Intelligence:** GPT-4/OpenAI · Google AI Studio · Cohere · AIME by ByteDance · Collaborative Filtering · Recommendation Systems · Prompt Engineering
+**Models & Intelligence:** GPT-4/OpenAI (API) · Google AI Studio · Cohere · AIME by ByteDance · Collaborative Filtering · Recommendation Systems · Prompt Engineering/Design · Structured Outputs · Recommendation Logic · AI Evaluations
 
-**Automate & Deploy:** Zapier · Vercel
-
+**Automate & Deploy:** Zapier · Vercel · GitHub Actions · Mixpanel · Google Analytics
 
 
 

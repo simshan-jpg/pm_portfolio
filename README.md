@@ -2,8 +2,8 @@
 Simone Yu — Portfolio <br/>
 
 <h4 align="center">
-_Product manager combining data, customer insight, and creative storytelling
-to build thoughtful digital experiences._ <br/>
+Product manager combining data & storytelling
+to build & bring solutions to life <br/>
 
 <div align="center">
   <img alt="Demo" src="./Images/computer.png" />
